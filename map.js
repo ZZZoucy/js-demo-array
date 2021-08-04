@@ -13,7 +13,7 @@ let arr2 = arr.map((item) => {
     } else if (item === 5) {
         return "周五";
     } else {
-        return "周六"
+        return "周六";
     }
 });
 console.log(arr2);
